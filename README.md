@@ -1,5 +1,4 @@
-### Manoel Rodrigues
----
+
 
 <div align="center">
   <a href="https://github.com/manoelpiovesan">
