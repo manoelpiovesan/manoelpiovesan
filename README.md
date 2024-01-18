@@ -1,10 +1,9 @@
 
 
-![](https://github-readme-stats.vercel.app/api?username=manoelpiovesan&theme=dark)
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelrodrigues7/)
+![Github](https://github-readme-stats.vercel.app/api?username=manoelpiovesan&theme=dark)
 
 ---
+
 ![Flutter](https://img.shields.io/badge/flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230077B5.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
