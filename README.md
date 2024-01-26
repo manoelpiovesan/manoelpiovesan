@@ -1,8 +1,8 @@
 
+![Github](https://github-readme-stats.vercel.app/api?username=manoelpiovesan&theme=dark)
+</br>
 [![](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge)](https://manoelpiovesan.github.io)
 </br>
-![Github](https://github-readme-stats.vercel.app/api?username=manoelpiovesan&theme=dark)
-
 
 ![Flutter](https://img.shields.io/badge/flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230077B5.svg?style=for-the-badge&logo=dart&logoColor=white) 
