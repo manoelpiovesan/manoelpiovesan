@@ -1,5 +1,5 @@
 
-![Github](https://github-readme-stats.vercel.app/api?username=manoelpiovesan&theme=shadow_red)
+![Github](https://github-readme-stats.vercel.app/api?username=manoelpiovesan&theme=shadow_red&include_all_commits=true)
 </br>
 
 
