@@ -1,2 +1,1 @@
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manoelpiovesan?cardType=level-alternate&theme=github-dark&preferLogin=false&Background=151515)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manoelpiovesan?cardType=level&theme=dark&showIcons=false&preferLogin=false&Background=151515&Ring=39D353&Text=A0A4AB&Title=39D353&Border=DD2727)](https://git.io/awesome-stats-card)
